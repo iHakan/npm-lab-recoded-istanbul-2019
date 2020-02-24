@@ -4,7 +4,7 @@
   "description": "This package will be created for a project for color-clock",
   "main": "index.js",
   "scripts": {
-    "test": "test1"
+    "test": "echo 'Hello World!'"
   },
   "author": "Flat-iron School",
   "license": "ISC"
