@@ -1,0 +1,11 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This package will be created for a project for color-clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "author": "Flat-iron School",
+  "license": "ISC"
+}
